@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "dma_gd32.h": "c",
+        "condition_variable": "c",
+        "bitset": "c",
+        "memory": "c",
+        "random": "c",
+        "optional": "c",
+        "uart.h": "c"
+    }
+}
